@@ -12,8 +12,7 @@
 I invite you to explore my repository with various **software testing projects**. You can find it 👉  [here](https://github.com/AnetaWierzbicka/Portfolio/blob/main/README.md) 👈
  
 <div align="center">
-<img src="![19197096](https://github.com/user-attachments/assets/92789a6b-8d65-4100-a612-89f6fb6795bd)" width="500"> 
-
+<img src="https://github.com/user-attachments/assets/92789a6b-8d65-4100-a612-89f6fb6795bd" width="500"> 
 </div>
 
 <div align="center">
