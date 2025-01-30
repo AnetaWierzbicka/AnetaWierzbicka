@@ -1,8 +1,5 @@
 ## Hi!👋  Explore my world of testing! 🚀
 
-<!--
-**AnetaWierzbicka/AnetaWierzbicka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 🎓 I graduated from the Warsaw School of Economics with a major in E-business, specializing in E-business Management.<br> As an **analytical thinker**,  I enjoy exploring new challenges and solving problems. 
 
 💻 My journey in software testing started with the **Testing Academy** and the **ISTQB certification**. <br>I’ve also participated in **crowdtesting projects**. I gained experience in **exploratory testing**, **writing test cases**, and **reporting bugs**.<br> Additionally, I have a solid foundation in **SQ**L and **API testing**.
